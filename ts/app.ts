@@ -1,4 +1,4 @@
-
+export {};
 const open = document.getElementById('open') as HTMLInputElement;;
 const close = document.getElementById('close') as HTMLInputElement;;
 const container = document.querySelector('.container');

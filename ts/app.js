@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 var open = document.getElementById('open');
 ;
 var close = document.getElementById('close');
